@@ -1,4 +1,4 @@
-# Software-Development-101
+# software-development-101
 * Create a new private repository **Software-Development-101-Homework** 
 * Add **himankbatra** as collaborator.
 * Read all the resources provided in resources folder.
